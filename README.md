@@ -1,5 +1,4 @@
 # Intro-JS
-Java Script Introduction  Extension Course 
-Anhembi Morumbi (UAM) 
-Nicolli Delacosta Luz - Digital Design 
+Java Script Introduction - Anhembi Morumbi (UAM) - Extension Course Anhembi Morumbi (UAM) <br>
+Nicolli Delacosta Luz - Digital Design <br> 
 RA: 125111365572
